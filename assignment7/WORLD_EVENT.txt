@@ -1,0 +1,13 @@
+CPE 203 Assignment 7 by: Garrett DeAngelis
+
+1) To trigger the storm, press anywhere within the world using the mouse. The storm will spawn on 9 tiles.
+
+2) When the storm spawns, it will create a new background with storm clouds.
+
+3) If a miner passes into the storm or the storm is triggered above a miner, then the miner will change form into Scooby Doo.
+   Scooby will then run around faster than the normal miners and gobble up all of the ore. Since he's Scooby Doo, 
+   he is always hungry and therefore won't ever stop eating the ore.
+ 
+
+4) The entity produced by the storm is the ghost, but only if a miner is changed into Scooby Doo (eg. passes into the storm). 
+   These ghosts will run around and hunt down the ore blobs. 
